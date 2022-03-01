@@ -2,7 +2,7 @@
 
 
 <input type="text" id="objeto" />
-<button onclick="adicionarObjetos()">Adicionar</button>
+<button onclick="adicionarObjetos()">Adicionar</button><br>
 <button onclick="ordenarObjetos()">Ordenar</button>
 <br>
 <div align="center">
